@@ -1,0 +1,24 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family: sans-serif;
+}
+
+#siderbar {
+	position: fixed;
+	width: 200px;
+	height: 100%;
+	background:#151719;
+}
+
+#sidebar ul li {
+	color:rgba(230,230,230,0.9);
+	
+}
+
+body{
+	
+	
+	background-image: url(imagen.jpg);
+	background-size: cover;
+	
